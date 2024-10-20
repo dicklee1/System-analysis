@@ -14,10 +14,10 @@
           <mxGeometry x="30" y="-160" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dm8r0YIzHr2bbyU3Pss4-1" value="AI備課系統" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" parent="1" vertex="1">
-          <mxGeometry x="190" y="-370" width="330" height="430" as="geometry" />
+          <mxGeometry x="190" y="-370" width="410" height="430" as="geometry" />
         </mxCell>
         <mxCell id="8fR5_x-3oUHtHIp3af_6-2" value="觀察學生上課情形" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-          <mxGeometry x="30" y="190" width="120" height="40" as="geometry" />
+          <mxGeometry x="30" y="210" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8fR5_x-3oUHtHIp3af_6-4" value="登入" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
           <mxGeometry x="110" y="50" width="120" height="40" as="geometry" />
