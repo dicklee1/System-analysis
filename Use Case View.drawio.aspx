@@ -56,10 +56,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8fR5_x-3oUHtHIp3af_6-24" value="&amp;lt;&amp;lt;includ&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=1.042;entryY=0.675;entryDx=0;entryDy=0;exitX=0.075;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-20" target="8fR5_x-3oUHtHIp3af_6-2">
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-24" value="&amp;lt;&amp;lt;includ&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.075;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-20">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="470" y="373" as="sourcePoint" />
-            <mxPoint x="573" y="406" as="targetPoint" />
+            <mxPoint x="150" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dm8r0YIzHr2bbyU3Pss4-9" value="培養學生團體思考" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
