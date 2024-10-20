@@ -14,16 +14,34 @@
           <mxGeometry x="30" y="-160" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Dm8r0YIzHr2bbyU3Pss4-1" value="AI備課系統" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" parent="1" vertex="1">
-          <mxGeometry x="190" y="-370" width="410" height="430" as="geometry" />
+          <mxGeometry x="190" y="-370" width="460" height="430" as="geometry" />
         </mxCell>
         <mxCell id="8fR5_x-3oUHtHIp3af_6-2" value="觀察學生上課情形" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
-          <mxGeometry x="30" y="210" width="120" height="40" as="geometry" />
+          <mxGeometry x="30" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8fR5_x-3oUHtHIp3af_6-4" value="登入" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
           <mxGeometry x="110" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8fR5_x-3oUHtHIp3af_6-3" value="&lt;div&gt;蒐集備課資料&lt;/div&gt;" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
           <mxGeometry x="30" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-7" value="蒐集最新新聞" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
+          <mxGeometry x="250" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-8" value="蒐集內文相關資料" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
+          <mxGeometry x="250" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-10" value="&amp;lt;&amp;lt;includ&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.083;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-3" target="8fR5_x-3oUHtHIp3af_6-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="159.5" as="sourcePoint" />
+            <mxPoint x="320" y="159.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-12" value="&amp;lt;&amp;lt;includ&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.975;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-3" target="8fR5_x-3oUHtHIp3af_6-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="140" y="180" as="sourcePoint" />
+            <mxPoint x="230" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Dm8r0YIzHr2bbyU3Pss4-9" value="培養學生團體思考" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="660" y="-130" width="120" height="40" as="geometry" />
