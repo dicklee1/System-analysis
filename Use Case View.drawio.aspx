@@ -31,16 +31,16 @@
         <mxCell id="8fR5_x-3oUHtHIp3af_6-8" value="蒐集內文相關資料" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
           <mxGeometry x="250" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8fR5_x-3oUHtHIp3af_6-10" value="&amp;lt;&amp;lt;includ&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.083;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-3" target="8fR5_x-3oUHtHIp3af_6-7">
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-13" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-3" target="8fR5_x-3oUHtHIp3af_6-7">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="160" y="159.5" as="sourcePoint" />
-            <mxPoint x="320" y="159.5" as="targetPoint" />
+            <mxPoint x="144" y="180" as="sourcePoint" />
+            <mxPoint x="304" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8fR5_x-3oUHtHIp3af_6-12" value="&amp;lt;&amp;lt;includ&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.975;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-3" target="8fR5_x-3oUHtHIp3af_6-8">
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-18" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="140" y="180" as="sourcePoint" />
-            <mxPoint x="230" y="160" as="targetPoint" />
+            <mxPoint x="150" y="170" as="sourcePoint" />
+            <mxPoint x="251" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dm8r0YIzHr2bbyU3Pss4-9" value="培養學生團體思考" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -57,6 +57,12 @@
         </mxCell>
         <mxCell id="Dm8r0YIzHr2bbyU3Pss4-2" value="雲端維護資料管理" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="670" y="-80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-12" value="&amp;lt;&amp;lt;includ&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.975;exitY=0.675;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="650" y="-20" as="sourcePoint" />
+            <mxPoint x="753" y="13" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
