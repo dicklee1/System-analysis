@@ -101,6 +101,9 @@
             <mxPoint x="230" y="-183" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-28" value="學生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-60" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
