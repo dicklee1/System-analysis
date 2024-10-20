@@ -31,16 +31,35 @@
         <mxCell id="8fR5_x-3oUHtHIp3af_6-8" value="蒐集內文相關資料" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
           <mxGeometry x="250" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8fR5_x-3oUHtHIp3af_6-13" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.725;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-3" target="8fR5_x-3oUHtHIp3af_6-7">
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-18" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-8" target="8fR5_x-3oUHtHIp3af_6-3">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="144" y="180" as="sourcePoint" />
-            <mxPoint x="304" y="180" as="targetPoint" />
+            <mxPoint x="150" y="250" as="sourcePoint" />
+            <mxPoint x="251" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8fR5_x-3oUHtHIp3af_6-18" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-19" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;exitX=0.008;exitY=0.775;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-7">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="150" y="170" as="sourcePoint" />
-            <mxPoint x="251" y="200" as="targetPoint" />
+            <mxPoint x="270" y="190" as="sourcePoint" />
+            <mxPoint x="150" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-20" value="分析學生上課情形" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
+          <mxGeometry x="240" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-21" value="改善建議" style="ellipse;html=1;whiteSpace=wrap;" vertex="1" parent="Dm8r0YIzHr2bbyU3Pss4-1">
+          <mxGeometry x="250" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-22" value="" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=block;endFill=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-20" target="8fR5_x-3oUHtHIp3af_6-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="250" y="250" as="sourcePoint" />
+            <mxPoint x="150" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8fR5_x-3oUHtHIp3af_6-23" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;entryX=0.558;entryY=1.05;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="Dm8r0YIzHr2bbyU3Pss4-1" source="8fR5_x-3oUHtHIp3af_6-21" target="8fR5_x-3oUHtHIp3af_6-20">
+          <mxGeometry x="-0.0044" y="-22" width="160" relative="1" as="geometry">
+            <mxPoint x="290" y="330" as="sourcePoint" />
+            <mxPoint x="393" y="363" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Dm8r0YIzHr2bbyU3Pss4-9" value="培養學生團體思考" style="ellipse;html=1;whiteSpace=wrap;" parent="1" vertex="1">
